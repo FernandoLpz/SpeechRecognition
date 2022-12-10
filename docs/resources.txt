@@ -1,0 +1,6 @@
+WebRTC Voice Activity Detector: https://github.com/wiseman/py-webrtcvad
+PyAudio: https://pypi.org/project/PyAudio/
+WebSockets: https://websockets.readthedocs.io/en/stable/
+AsyncIO: https://docs.python.org/3/library/asyncio.html
+Spanish model: https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-spanish
+English model: https://huggingface.co/facebook/wav2vec2-large-960h-lv60-self

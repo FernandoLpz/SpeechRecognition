@@ -1,0 +1,7 @@
+torch
+numpy
+asyncio
+pyaudio
+webrtcvad
+websockets
+transformers
