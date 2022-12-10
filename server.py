@@ -27,7 +27,7 @@ class SpeechRecognitionServer:
         
         print(f"Server up.")
         
-        run = websockets.serve(self.speechRecognition, SERVER, 8001)
+        run = websockets.serve(self.speechRecognition, SERVER, PORT)
         asyncio.get_event_loop().run_until_complete(run)
         asyncio.get_event_loop().run_forever()
         
