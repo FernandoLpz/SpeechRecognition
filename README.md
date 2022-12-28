@@ -1,3 +1,8 @@
+[![Medium][medium-shield]][medium-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![YouTube][youtube-shield]][youtube-url]
+
 # Automatic Speech Recognition
 
 This repository contains the implementation of an Automatic Speech Recognition system in python, using a client-server architecture with Web Sockets.
@@ -33,7 +38,7 @@ pipenv shell
 
 ## 4. How to use
 
-Once you have correctly installed the requirements. You must set in line `17` of `client.py` your input device. In my case, my device is defined as `INPUT_DEVICE = "UMC204HD 192k"
+Once you have correctly installed the requirements. You must set in line `17` of `client.py` your input device. In my case, my device is defined as `INPUT_DEVICE = "UMC204HD 192k"`.
 
 ### Server
 
@@ -56,3 +61,12 @@ $ python -B client.py
 Any comment, suggestion or colaboration, just reach me out at: fer.neutron@gmail.com
 
 Feel free to clone or fork!
+
+[medium-shield]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://medium.com/@fer.neutron
+[twitter-shield]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/Fernando_LpzV
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/fernando-lopezvelasco/
+[youtube-shield]: https://img.shields.io/badge/YouTube-YouTube-red
+[youtube-url]: https://www.youtube.com/@ferneutron
