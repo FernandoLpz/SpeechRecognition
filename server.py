@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Author: Fernando Lopez 
+Description: This script contains the definition of the websocket client.
+"""
+
 import asyncio
 import argparse
 import websockets
@@ -10,6 +16,7 @@ from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
 SERVER = "localhost"
 PORT = 8001
 
+# You can add or replace more models here
 ENGLIISH_MODEL = "facebook/wav2vec2-large-960h-lv60-self"
 SPANISH_MODEL = "jonatasgrosman/wav2vec2-large-xlsr-53-spanish"
 

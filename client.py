@@ -1,3 +1,10 @@
+
+# -*- coding: utf-8 -*-
+"""
+Author: Fernando Lopez 
+Description: This script contains the definition of the websocket client.
+"""
+
 import pyaudio
 import asyncio
 import webrtcvad
