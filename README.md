@@ -13,7 +13,9 @@ If you want to know the explanation, I leave you the link to my video on YouTube
 
 ## 2. The architecture
 
-In progress
+<p align="center">
+<img src='img/asr.jpg'>
+</p>
 
 ## 3. Dependencies
 
